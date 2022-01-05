@@ -1,5 +1,11 @@
 # Fast api mono template
 
+## Tech Stack:
+* Fastapi
+* SqlAlchemy
+* Mysql
+* Typer
+
 ## Prerequisite
 
 - Python >= 3.8
