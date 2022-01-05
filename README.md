@@ -1,4 +1,4 @@
-# svm21160-rightship-api
+# Fast api mono template
 
 ## Prerequisite
 
