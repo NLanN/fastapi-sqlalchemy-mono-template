@@ -1,6 +1,6 @@
 # Fast api mono template
 
-## Tech Stack:
+## Techstack:
 * Fastapi
 * SqlAlchemy
 * Mysql
@@ -19,9 +19,11 @@ Environment:
 
 
 ### Manual installation 
+
     ```
     pip install -r requirements.txt
     ```
+    
 Change to app directory. at ./app/
 
 if this is the first time you create database schema:
