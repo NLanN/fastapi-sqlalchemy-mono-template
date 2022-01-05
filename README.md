@@ -39,7 +39,7 @@ Now try to access in browser.
 
 manage.py using typer to run cli.
 
-* generate admin user (default: email: admin@vmo.com, password: 123456@abc):
+* generate admin user (default: email: admin@mail.com, password: 123456@abc):
 
 ```
     python manage.py user create_admin
