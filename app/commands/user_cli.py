@@ -9,7 +9,7 @@ user_cli = typer.Typer()
 
 @user_cli.command("create_admin")
 def create_admin_user(
-    email: str = typer.Option("admin@vmo.com", help="Default admin@vmo.com."),
+    email: str = typer.Option("admin@mail.com", help="Default admin@mail.com."),
     full_name: str = typer.Option("admin", help="Default admin."),
     password: str = typer.Option("123456@abc", help="Default 123456@abcA"),
 ):
