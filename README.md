@@ -1,4 +1,4 @@
-# Fast api mono template
+# Fastapi mono template
 
 ## Techstack:
 * Fastapi
